@@ -111,6 +111,8 @@ module.exports = mod;
 "use strict";
 
 __turbopack_context__.s([
+    "SOCKET_URL",
+    ()=>SOCKET_URL,
     "disconnectSocket",
     ()=>disconnectSocket,
     "emitAction",
@@ -126,7 +128,18 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$socket$2e$io$2d$client$2f$build$2f$esm$2d$debug$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/node_modules/socket.io-client/build/esm-debug/index.js [app-ssr] (ecmascript) <locals>");
 ;
-const SOCKET_URL = process.env.NEXT_PUBLIC_SOCKET_URL || 'http://localhost:3001';
+function getSocketUrl() {
+    // Use env var if explicitly set
+    if (process.env.NEXT_PUBLIC_SOCKET_URL) {
+        return process.env.NEXT_PUBLIC_SOCKET_URL;
+    }
+    // In browser, auto-detect from current location
+    if ("TURBOPACK compile-time falsy", 0) //TURBOPACK unreachable
+    ;
+    // Server-side fallback (development only)
+    return 'http://localhost:3001';
+}
+const SOCKET_URL = getSocketUrl();
 let socket = null;
 function getSocket() {
     if (!socket) {
@@ -286,7 +299,7 @@ function Home() {
         const handleConnectError = (error)=>{
             cleanup();
             console.error('Connection error:', error);
-            alert(`Failed to connect to server. Make sure the server is running on ${process.env.NEXT_PUBLIC_SOCKET_URL || 'http://localhost:3001'}`);
+            alert(`Failed to connect to server at ${__TURBOPACK__imported__module__$5b$project$5d2f$apps$2f$web$2f$lib$2f$socket$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SOCKET_URL"]}. Please check your connection and try again.`);
             setIsCreating(false);
         };
         socket.on('join:success', handleJoinSuccess);
@@ -311,7 +324,7 @@ function Home() {
         timeoutRef.current = setTimeout(()=>{
             cleanup();
             setIsCreating(false);
-            alert('Connection timeout. Please make sure the server is running on port 3001.');
+            alert(`Connection timeout. Unable to connect to server at ${__TURBOPACK__imported__module__$5b$project$5d2f$apps$2f$web$2f$lib$2f$socket$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SOCKET_URL"]}. Please check your connection and try again.`);
         }, 10000);
     };
     const handleJoinRoom = ()=>{
@@ -364,7 +377,7 @@ function Home() {
         const handleConnectError = (error)=>{
             cleanup();
             console.error('Connection error:', error);
-            alert(`Failed to connect to server. Make sure the server is running on ${process.env.NEXT_PUBLIC_SOCKET_URL || 'http://localhost:3001'}`);
+            alert(`Failed to connect to server at ${__TURBOPACK__imported__module__$5b$project$5d2f$apps$2f$web$2f$lib$2f$socket$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SOCKET_URL"]}. Please check your connection and try again.`);
             setIsJoining(false);
         };
         socket.on('join:success', handleJoinSuccess);
@@ -389,7 +402,7 @@ function Home() {
         timeoutRef.current = setTimeout(()=>{
             cleanup();
             setIsJoining(false);
-            alert('Connection timeout. Please make sure the server is running on port 3001.');
+            alert(`Connection timeout. Unable to connect to server at ${__TURBOPACK__imported__module__$5b$project$5d2f$apps$2f$web$2f$lib$2f$socket$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SOCKET_URL"]}. Please check your connection and try again.`);
         }, 10000);
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {

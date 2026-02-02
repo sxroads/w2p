@@ -254,3 +254,10 @@
 [00:55:02.584] Browser LOG     Socket connected: 1ODOjDrVirFtuKWVAAAZ
 [00:55:02.584] Browser LOG     Connection status: connected
 [00:55:09.208] Browser LOG     Socket already connected, emitting create:room
+[01:21:38.141] Server  LOG     ✓ Compiled in 135ms
+[01:21:39.870] Server  LOG     ✓ Compiled in 61ms
+[01:21:40.659] Server  LOG     ✓ Compiled in 78ms
+[01:21:41.501] Server  LOG     ✓ Compiled in 28ms
+[01:21:45.187] Server  LOG     ✓ Compiled in 16ms
+[01:22:51.276] Server  LOG     ✓ Compiled in 87ms
+[01:22:56.632] Server  LOG     ✓ Compiled in 19ms

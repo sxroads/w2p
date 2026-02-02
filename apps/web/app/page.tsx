@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import { getSocket } from '@/lib/socket';
+import { getSocket, SOCKET_URL } from '@/lib/socket';
 
 type Mode = 'select' | 'join' | 'create';
 type JoinStep = 'code' | 'name';
@@ -102,7 +102,7 @@ export default function Home() {
 		const handleConnectError = (error: Error) => {
 			cleanup();
 			console.error('Connection error:', error);
-			alert(`Failed to connect to server. Make sure the server is running on ${process.env.NEXT_PUBLIC_SOCKET_URL || 'http://localhost:3001'}`);
+			alert(`Failed to connect to server at ${SOCKET_URL}. Please check your connection and try again.`);
 			setIsCreating(false);
 		};
 
@@ -128,7 +128,7 @@ export default function Home() {
 		timeoutRef.current = setTimeout(() => {
 			cleanup();
 			setIsCreating(false);
-			alert('Connection timeout. Please make sure the server is running on port 3001.');
+			alert(`Connection timeout. Unable to connect to server at ${SOCKET_URL}. Please check your connection and try again.`);
 		}, 10000);
 	};
 
@@ -189,7 +189,7 @@ export default function Home() {
 		const handleConnectError = (error: Error) => {
 			cleanup();
 			console.error('Connection error:', error);
-			alert(`Failed to connect to server. Make sure the server is running on ${process.env.NEXT_PUBLIC_SOCKET_URL || 'http://localhost:3001'}`);
+			alert(`Failed to connect to server at ${SOCKET_URL}. Please check your connection and try again.`);
 			setIsJoining(false);
 		};
 
@@ -217,7 +217,7 @@ export default function Home() {
 		timeoutRef.current = setTimeout(() => {
 			cleanup();
 			setIsJoining(false);
-			alert('Connection timeout. Please make sure the server is running on port 3001.');
+			alert(`Connection timeout. Unable to connect to server at ${SOCKET_URL}. Please check your connection and try again.`);
 		}, 10000);
 	};
 

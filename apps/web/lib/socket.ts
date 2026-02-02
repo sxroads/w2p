@@ -1,7 +1,27 @@
 import { io, Socket } from 'socket.io-client';
 import type { RoomState, Action } from '@w2p/shared';
 
-const SOCKET_URL = process.env.NEXT_PUBLIC_SOCKET_URL || 'http://localhost:3001';
+function getSocketUrl(): string {
+	// Use env var if explicitly set
+	if (process.env.NEXT_PUBLIC_SOCKET_URL) {
+		return process.env.NEXT_PUBLIC_SOCKET_URL;
+	}
+
+	// In browser, auto-detect from current location
+	if (typeof window !== 'undefined') {
+		const protocol = window.location.protocol === 'https:' ? 'https' : 'http';
+		const hostname = window.location.hostname;
+		// Use same hostname, port 3001
+		// In production (no port in URL), assume socket server is on same domain or use port 3001
+		const port = window.location.port ? ':3001' : ':3001';
+		return `${protocol}://${hostname}${port}`;
+	}
+
+	// Server-side fallback (development only)
+	return 'http://localhost:3001';
+}
+
+export const SOCKET_URL = getSocketUrl();
 
 let socket: Socket | null = null;
 
