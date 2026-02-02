@@ -1,0 +1,23 @@
+{
+  "name": "@w2p/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5",
+    "@w2p/shared": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "tsx": "^4.7.0",
+    "typescript": "^5",
+    "eslint": "^9"
+  }
+}
+

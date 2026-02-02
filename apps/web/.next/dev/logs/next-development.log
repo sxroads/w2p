@@ -1,0 +1,256 @@
+[00:00:00.969] Server  LOG     ✓ Ready in 701ms
+[00:00:06.995] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.118] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:00:07.118] Browser LOG     Socket connected: LHy2BOKV5v334URPAAAB
+[00:00:07.118] Browser LOG     Connection status: connected
+[00:00:11.582] Browser LOG     Socket already connected, emitting create:room
+[00:00:23.359] Browser LOG     Socket already connected, emitting create:room
+[00:00:47.471] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:47.590] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:00:47.590] Browser LOG     Socket connected: 23TK5bzBDmHpyyq3AAAD
+[00:00:47.590] Browser LOG     Connection status: connected
+[00:02:33.659] Browser LOG     Socket disconnected: transport close
+[00:02:33.900] Browser LOG     Socket disconnected: transport close
+[00:02:35.035] Browser LOG     Socket connected: EockwdoI51aKO390AAAD
+[00:02:35.874] Server  LOG     ✓ Compiled in 295ms
+[00:02:35.900] Browser LOG     Socket connected: YHFachSZEWFbSGI9AAAB
+[00:02:43.121] Server  LOG     ✓ Compiled in 29ms
+[00:02:44.919] Browser LOG     Socket disconnected: transport close
+[00:02:45.899] Browser LOG     Socket disconnected: transport close
+[00:02:46.425] Browser LOG     Socket connected: k9sjGd-0V0JYQlXbAAAD
+[00:02:46.697] Browser LOG     Socket disconnected: transport close
+[00:02:46.900] Browser LOG     Socket connected: BIkjIHyRd_DTp1HXAAAB
+[00:02:46.900] Browser LOG     Socket disconnected: transport close
+[00:02:47.594] Browser LOG     Socket connected: SL7QfxpXCCOfca0lAAAB
+[00:02:49.902] Browser LOG     Socket connected: _4uSC0_Fa71SKphDAAAD
+[00:02:56.534] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:56.642] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:02:56.642] Browser LOG     Socket connected: Dn9o-x8OQjXPQXcgAAAF
+[00:03:01.945] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:02.056] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:03:02.056] Browser LOG     Socket connected: dZfA6K_JTE2x_vh6AAAH
+[00:03:10.166] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:10.275] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:03:10.275] Browser LOG     Socket connected: sQP6EMykrBY1UyFtAAAJ
+[00:03:10.275] Browser LOG     Connection status: connected
+[00:03:14.184] Browser LOG     Socket already connected, emitting create:room
+[00:03:21.914] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:22.022] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:03:22.022] Browser LOG     Socket connected: WfES0MobkL3GrXbmAAAL
+[00:03:26.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:26.619] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:03:26.619] Browser LOG     Socket connected: _1fTDasByqbtpjtmAAAN
+[00:03:49.401] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:49.511] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:03:49.511] Browser LOG     Socket connected: dO1XOKM6uf_sJpygAAAP
+[00:03:49.511] Browser LOG     Connection status: connected
+[00:03:51.161] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:51.269] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:03:51.269] Browser LOG     Socket connected: rxBdqj-UnHiUCzfaAAAR
+[00:03:51.269] Browser LOG     Connection status: connected
+[00:03:53.967] Browser LOG     Socket already connected, emitting create:room
+[00:04:53.506] Server  LOG     ✓ Compiled in 22ms
+[00:04:55.024] Server  LOG     ✓ Compiled in 24ms
+[00:18:35.901] Browser LOG     Socket disconnected: transport close
+[00:18:35.901] Browser LOG     Socket disconnected: transport close
+[00:18:37.900] Browser LOG     Socket connected: xAnrlnsFI2vTuqAFAAAD
+[00:18:37.900] Browser LOG     Socket connected: CMmuZQRIXuzhPLiMAAAB
+[00:18:41.900] Browser LOG     Socket disconnected: transport close
+[00:18:41.900] Browser LOG     Socket disconnected: transport close
+[00:18:43.900] Browser LOG     Socket connected: ATWFKHuSPSsbJcYKAAAD
+[00:18:43.900] Browser LOG     Socket connected: dNmXaVVhTJ4AXfOQAAAB
+[00:18:45.900] Browser LOG     Socket disconnected: transport close
+[00:18:45.900] Browser LOG     Socket disconnected: transport close
+[00:18:46.904] Server  LOG     ✓ Compiled in 44ms
+[00:18:47.637] Server  LOG     ✓ Compiled in 40ms
+[00:18:47.900] Browser LOG     Socket connected: 3v2cIaihn0Z0ngJFAAAD
+[00:18:47.900] Browser LOG     Socket connected: l8bzp8lnVqpw4opmAAAB
+[00:18:48.388] Server  LOG     ✓ Compiled in 44ms
+[00:18:49.445] Server  LOG     ✓ Compiled in 32ms
+[00:18:50.398] Server  LOG     ✓ Compiled in 101ms
+[00:18:52.478] Server  LOG     ✓ Compiled in 48ms
+[00:18:58.359] Server  LOG     ✓ Compiled in 19ms
+[00:19:04.991] Server  LOG     ✓ Compiled in 66ms
+[00:19:12.900] Browser LOG     Socket disconnected: transport close
+[00:19:12.900] Browser LOG     Socket disconnected: transport close
+[00:19:13.900] Browser LOG     Socket connected: iVkvf-4lZyYk7CevAAAB
+[00:19:14.901] Browser LOG     Socket connected: UVZDJexTFkC-ZklXAAAD
+[00:19:47.900] Browser LOG     Socket disconnected: transport close
+[00:19:47.900] Browser LOG     Socket disconnected: transport close
+[00:19:49.900] Browser LOG     Socket connected: TZcPfbS5f1u5XcpwAAAD
+[00:19:49.900] Browser LOG     Socket connected: WFVVUX7fqBU7-gPbAAAB
+[00:19:59.471] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:59.595] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:19:59.595] Browser LOG     Socket connected: 1JolsFpuhdEuRiAJAAAF
+[00:19:59.595] Browser LOG     Connection status: connected
+[00:20:15.173] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:15.296] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:20:15.296] Browser LOG     Socket connected: CjYtCz0sZ_frniKVAAAH
+[00:20:15.296] Browser LOG     Connection status: connected
+[00:20:22.204] Browser LOG     Socket already connected, emitting create:room
+[00:20:42.458] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:42.477] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:20:42.477] Browser LOG     Socket connected: OoaL6nIgBdPnbUAwAAAJ
+[00:20:42.714] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:42.714] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:20:42.823] Browser LOG     Socket connected: LE5CbiTvwR8iFCuoAAAL
+[00:20:47.145] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:47.254] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:20:47.254] Browser LOG     Socket connected: WY0I8xnbq-5CIzScAAAN
+[00:20:47.254] Browser LOG     Connection status: connected
+[00:20:51.956] Browser LOG     Socket already connected, emitting create:room
+[00:21:02.711] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:02.777] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:21:02.777] Browser LOG     Socket connected: x1gXpaJSxV-mvv1mAAAP
+[00:21:02.777] Browser LOG     Connection status: connected
+[00:21:02.863] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:02.917] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:21:02.917] Browser LOG     Socket connected: HgB_7ODSj3h8yEYiAAAR
+[00:21:02.917] Browser LOG     Connection status: connected
+[00:21:03.108] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:03.216] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:21:03.216] Browser LOG     Socket connected: -Ipou0ZfuMee-fXUAAAT
+[00:21:03.216] Browser LOG     Connection status: connected
+[00:21:07.768] Browser LOG     Socket already connected, emitting create:room
+[00:21:17.766] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:17.889] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:21:17.889] Browser LOG     Socket connected: eTHq6T17pvn4-YNCAAAV
+[00:21:17.889] Browser LOG     Connection status: connected
+[00:22:49.469] Server  LOG     ✓ Compiled in 54ms
+[00:24:30.783] Browser LOG     Socket disconnected: transport close
+[00:24:30.900] Browser LOG     Socket disconnected: transport close
+[00:24:31.682] Browser LOG     Socket connected: yjraLQpumR0yu90eAAAB
+[00:24:32.900] Browser LOG     Socket connected: itYpN58DN8nPUyhWAAAD
+[00:24:47.608] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:47.729] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:24:47.729] Browser LOG     Socket connected: tqnOOAcgez0wbnL1AAAF
+[00:24:54.726] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:54.847] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:24:54.847] Browser LOG     Socket connected: 31mY9vr5zblUckpDAAAH
+[00:24:54.847] Browser LOG     Connection status: connected
+[00:24:58.330] Browser LOG     Socket already connected, emitting create:room
+[00:25:04.221] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:04.330] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:25:04.330] Browser LOG     Socket connected: CjJg-4eZ6Sl3AkNEAAAJ
+[00:25:04.330] Browser LOG     Connection status: connected
+[00:25:15.040] Browser LOG     Socket already connected, emitting create:room
+[00:26:38.241] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:38.371] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:26:38.371] Browser LOG     Socket connected: U-GD_HYBh2s0XQu6AAAL
+[00:26:38.371] Browser LOG     Connection status: connected
+[00:26:43.426] Browser LOG     Socket disconnected: transport close
+[00:26:43.426] Browser LOG     Connection status: disconnected
+[00:26:43.426] Browser LOG     Socket disconnected: transport close
+[00:26:43.956] Browser LOG     Socket disconnected: transport close
+[00:26:44.736] Browser LOG     Socket connected: lHtlynZWOob6_QrKAAAB
+[00:26:44.736] Browser LOG     Connection status: connected
+[00:26:44.930] Browser LOG     Socket connected: -qKjKFqa259uq_6yAAAD
+[00:26:45.900] Browser LOG     Socket connected: 8Wjw1nuSeyl7ahtZAAAF
+[00:26:54.701] Server  LOG     ✓ Compiled in 64ms
+[00:27:00.160] Browser LOG     Socket disconnected: transport close
+[00:27:00.160] Browser LOG     Socket disconnected: transport close
+[00:27:00.160] Browser LOG     Connection status: disconnected
+[00:27:00.902] Browser LOG     Socket disconnected: transport close
+[00:27:01.331] Browser LOG     Socket connected: 8haMe4wlCL5-YejvAAAB
+[00:27:01.423] Browser LOG     Socket connected: 2jHP7erVl4gaW5D-AAAD
+[00:27:01.423] Browser LOG     Connection status: connected
+[00:27:02.900] Browser LOG     Socket connected: cC1E14kC1euHO-t7AAAF
+[00:40:23.508] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:23.618] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:40:23.618] Browser LOG     Socket connected: kTBGLjnS00jMADg4AAAH
+[00:40:23.618] Browser LOG     Connection status: connected
+[00:40:27.078] Browser LOG     Socket already connected, emitting create:room
+[00:40:45.977] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:46.109] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:40:46.109] Browser LOG     Socket connected: mP8KCQmgpVtgiKt1AAAJ
+[00:40:56.417] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:56.527] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:40:56.527] Browser LOG     Socket connected: 16a-qDD5h-ptOpzEAAAL
+[00:40:56.527] Browser LOG     Connection status: connected
+[00:41:01.208] Browser LOG     Socket already connected, emitting create:room
+[00:41:33.055] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:41:33.055] Browser LOG     Socket connected: QtHGFeiEFfiVvXIOAAAN
+[00:41:33.056] Browser LOG     Connection status: connected
+[00:43:41.447] Browser LOG     Socket disconnected: transport close
+[00:43:41.450] Browser LOG     Socket disconnected: transport close
+[00:43:41.609] Browser LOG     Socket disconnected: transport error
+[00:43:41.900] Browser LOG     Socket disconnected: transport close
+[00:43:42.627] Browser LOG     Socket connected: MO7bHM6mH4oQ7f2FAAAB
+[00:43:42.836] Browser LOG     Socket connected: nOSKKRH5uBxEOoR-AAAD
+[00:43:43.212] Browser LOG     Socket connected: LONLeOGNTeVofZm1AAAH
+[00:43:43.899] Browser LOG     Socket connected: LjZj_NQvddqOFClcAAAF
+[00:44:07.736] Server  LOG     ✓ Compiled in 86ms
+[00:44:48.877] Server  LOG     ✓ Compiled in 74ms
+[00:45:12.366] Server  LOG     ✓ Compiled in 20ms
+[00:45:19.658] Server  LOG     ✓ Compiled in 32ms
+[00:45:21.133] Server  LOG     ✓ Compiled in 13ms
+[00:45:25.612] Server  LOG     ✓ Compiled in 42ms
+[00:45:32.853] Server  LOG     ✓ Compiled in 29ms
+[00:45:41.324] Server  LOG     ✓ Compiled in 25ms
+[00:45:44.168] Server  LOG     ✓ Compiled in 33ms
+[00:45:45.085] Server  LOG     ✓ Compiled in 21ms
+[00:45:53.535] Server  LOG     ✓ Compiled in 20ms
+[00:46:03.513] Server  LOG     ✓ Compiled in 60ms
+[00:46:05.876] Server  LOG     ✓ Compiled in 30ms
+[00:47:07.220] Server  LOG     ✓ Compiled in 45ms
+[00:47:09.061] Server  LOG     ✓ Compiled in 15ms
+[00:47:11.014] Server  LOG     ✓ Compiled in 25ms
+[00:47:31.740] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:31.849] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:47:31.849] Browser LOG     Socket connected: -vCMHH8_nxbRyCUIAAAJ
+[00:47:31.849] Browser LOG     Connection status: connected
+[00:48:23.415] Server  LOG     ✓ Compiled in 139ms
+[00:49:46.333] Browser LOG     Socket already connected, emitting create:room
+[00:49:54.412] Server  LOG     ✓ Compiled in 34ms
+[00:50:14.916] Server  LOG     ✓ Compiled in 32ms
+[00:51:07.041] Server  LOG     ✓ Compiled in 46ms
+[00:51:08.554] Server  LOG     ✓ Compiled in 113ms
+[00:51:09.476] Server  LOG     ✓ Compiled in 31ms
+[00:51:11.224] Server  LOG     ✓ Compiled in 14ms
+[00:51:15.726] Server  LOG     ✓ Compiled in 44ms
+[00:52:13.223] Server  LOG     ✓ Compiled in 33ms
+[00:52:15.462] Server  LOG     ✓ Compiled in 69ms
+[00:52:16.234] Server  LOG     ✓ Compiled in 27ms
+[00:52:32.085] Server  LOG     ✓ Compiled in 165ms
+[00:52:32.771] Server  LOG     ✓ Compiled in 27ms
+[00:52:54.032] Server  LOG     ✓ Compiled in 56ms
+[00:52:54.070] Server  LOG     ✓ Compiled in 29ms
+[00:52:55.655] Server  LOG     ✓ Compiled in 148ms
+[00:52:55.945] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:56.061] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:52:56.061] Browser LOG     Socket connected: VZOaULGGf20hDBt4AAAL
+[00:53:09.371] Server  LOG     ✓ Compiled in 30ms
+[00:53:21.972] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:22.086] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:53:22.086] Browser LOG     Socket connected: YIrPcFoHd08nQSuxAAAN
+[00:53:22.086] Browser LOG     Connection status: connected
+[00:54:20.614] Server  LOG     ✓ Compiled in 86ms
+[00:54:23.849] Server  LOG     ✓ Compiled in 8ms
+[00:54:39.512] Server  LOG     ✓ Compiled in 21ms
+[00:54:42.432] Server  LOG     ✓ Compiled in 9ms
+[00:54:46.570] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:46.683] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:54:46.683] Browser LOG     Socket connected: sLKgo90soiQhueDYAAAP
+[00:54:46.683] Browser LOG     Connection status: connected
+[00:54:48.191] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:48.305] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:54:48.305] Browser LOG     Socket connected: -C7lgDAwFEL9ZB1_AAAR
+[00:54:48.305] Browser LOG     Connection status: connected
+[00:54:48.955] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:49.070] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:54:49.070] Browser LOG     Socket connected: pCHnnSw0wvM7dC2PAAAT
+[00:54:49.070] Browser LOG     Connection status: connected
+[00:54:49.930] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:50.043] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:54:50.043] Browser LOG     Socket connected: 9-a_okAM9_W98OwwAAAV
+[00:54:50.043] Browser LOG     Connection status: connected
+[00:54:50.439] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:50.552] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:54:50.552] Browser LOG     Socket connected: kQKnQhWv3n9k4f6dAAAX
+[00:54:50.552] Browser LOG     Connection status: connected
+[00:54:59.285] Server  LOG     ✓ Compiled in 115ms
+[00:55:02.453] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:55:02.582] Browser LOG     Creating new socket connection to: http://localhost:3001
+[00:55:02.584] Browser LOG     Socket connected: 1ODOjDrVirFtuKWVAAAZ
+[00:55:02.584] Browser LOG     Connection status: connected
+[00:55:09.208] Browser LOG     Socket already connected, emitting create:room
